@@ -1,0 +1,16 @@
+D:\COMP 2210\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.Form1.resources
+D:\COMP 2210\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.csproj.GenerateResource.cache
+D:\COMP 2210\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\COMP 2210\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+D:\COMP 2210\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.AssemblyInfo.cs
+D:\COMP 2210\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\COMP 2210\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.exe
+D:\COMP 2210\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.deps.json
+D:\COMP 2210\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.runtimeconfig.json
+D:\COMP 2210\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.dll
+D:\COMP 2210\CalculatorApp\bin\Debug\net8.0-windows\CalculatorApp.pdb
+D:\COMP 2210\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.dll
+D:\COMP 2210\CalculatorApp\obj\Debug\net8.0-windows\refint\CalculatorApp.dll
+D:\COMP 2210\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.pdb
+D:\COMP 2210\CalculatorApp\obj\Debug\net8.0-windows\CalculatorApp.genruntimeconfig.cache
+D:\COMP 2210\CalculatorApp\obj\Debug\net8.0-windows\ref\CalculatorApp.dll
